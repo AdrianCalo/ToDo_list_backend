@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -71,3 +72,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+=======
+# ToDo_list_backend
+desafio 27/07/24 backend, tecnologias: NestJs,TypeOMR,MySQL
+>>>>>>> 76a0cf22f8d5f45a5443abdb837278ce6d170ce0
